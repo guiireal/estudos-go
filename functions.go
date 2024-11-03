@@ -10,7 +10,7 @@ func sum(num1, num2 int) int {
 	return num1 + num2
 }
 
-func main() {
+func main3() {
 	printData("João", 30)
 	fmt.Println(sum(10, 20))
 }
