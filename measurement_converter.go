@@ -6,7 +6,7 @@ import (
 	"strconv"
 )
 
-func main() {
+func main2() {
 	if len(os.Args) < 3 {
 		fmt.Println("Uso: conversor <valores> <unidade>")
 		os.Exit(1)
